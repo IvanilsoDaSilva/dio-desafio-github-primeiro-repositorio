@@ -1,0 +1,1 @@
+Atuam da parte do servidor em uma infraestrutura cliente servidor. Desenvolvendo soluções de acordo com as regras de negocio fazem a ponte entre os dados que vem do front-end rumo ao banco de dados (API's, por exemplo).
