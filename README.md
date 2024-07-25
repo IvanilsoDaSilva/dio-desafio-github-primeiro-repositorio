@@ -1,5 +1,3 @@
-# dio-desafio-github-primeiro-repositorio
-
 <!-- Caracter Icon -->
 
 ──────▄▀▄─────▄▀▄  
